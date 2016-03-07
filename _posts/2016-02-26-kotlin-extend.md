@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Kotlin -extending classes"
+title:  "Kotlin - extending classes"
 date:   2016-02-26 13:20:15 +0000
 categories: kotlin dev basics
 ---
