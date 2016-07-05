@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Maven Archetypes"
-date:   2016-07-05 10:20:15 +0000
+date:   2016-07-05 10:20:15 +0100
 categories: maven dev
 ---
 
