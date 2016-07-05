@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Maven Archetypes"
-date:   2016-03-30 13:20:15 +0000
-categories: kotlin dev learning
+date:   2016-07-05 10:20:15 +0000
+categories: maven dev
 ---
 
 Creating a root project pom:
